@@ -29,9 +29,9 @@ RSS信息管理系统是一个基于Vue 3 + Vite + Element Plus开发的现代�
 ## 🖼️ 项目预览
 
 <!-- 这里可以添加项目截图，建议后续添加3-4张核心功能截图 -->
-![仪表盘预览](./screenshot/dashboard.png)
-![RSS源管理](./screenshot/sources.png)
-![文章阅读](./screenshot/articles.png)
+![仪表盘预览](./src/assets/dashboard.png)
+![RSS源管理](./src/assets/sources.png)
+![文章阅读](./src/assets/articles.png)
 
 ## 🚀 快速开始
 
